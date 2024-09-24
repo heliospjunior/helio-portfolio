@@ -46,4 +46,5 @@ function updateLanguages(profileData){
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
+    updateLanguages(profileData)
 })()
