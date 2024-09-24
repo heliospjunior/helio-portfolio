@@ -14,7 +14,7 @@
     right: .5rem;
     width: 2rem;
     height: 2rem;
-    background-image: url('/assets/icons/header.svg');
+    background-image: url('../icons/header.svg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
@@ -57,7 +57,7 @@
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background-image: url('/assets/icons/location.png');
+    background-image: url('../icons/location.png');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
@@ -70,15 +70,15 @@
 }
 
 .information .profile::before {
-    background-image: url('/assets/icons/profile.png');
+    background-image: url('../icons/profile.png');
 }
 
 .information .location::before {
-    background-image: url('/assets/icons/location.png');
+    background-image: url('../icons/location.png');
 }
 
 .information .email::before {
-    background-image: url('/assets/icons/email.png');
+    background-image: url('../icons/email.png');
 }
 
 
