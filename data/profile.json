@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/js.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/mainassets/icons/languages/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/html.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/mainassets/icons/languages/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/css.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/mainassets/icons/languages/css.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/angular.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/mainassets/icons/languages/angular.png"
       },
       {
         "name": "Github",
@@ -29,7 +29,7 @@
       },
       {
         "name": "VSCode",
-        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/vscode.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/mainassets/icons/languages/vscode.png"
       }
     ],
     "softSkills": [
