@@ -8,28 +8,28 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/css.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/heliospjunior/helio-portfolio/refs/heads/main/assets/icons/languages/vscode.png"
       }
     ],
     "softSkills": [
